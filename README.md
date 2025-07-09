@@ -6,10 +6,10 @@ A simple web scraper and RSS feed aggregator built with Go. It fetches and store
 
 ## 🚀 Demo
 
-<img src="screenshots/Screenshot-1.png" alt="Feed creation UI" width="600"/>
-<br/>
-<img src="screenshots/Screenshot-2.png" alt="Post listing UI" width="600"/>
+![Screenshot](screenshots/Screenshot-1.png)
 
+
+![Screenshot](screenshots/Screenshot-2.png)
 ---
 
 ## 🙏 Credits
